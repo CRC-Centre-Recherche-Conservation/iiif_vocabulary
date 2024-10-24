@@ -1,0 +1,522 @@
+[
+  {
+    "type": "category",
+    "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/22b1b2e9-9241-4bda-ad66-52590a36c87b",
+    "name": "Thésaurus AGORHA caractéristiques de description matérielle",
+    "children": [
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/cfef6878-10f2-452d-bebf-10d67273c82c",
+        "name": "Couvrure",
+        "creationDate": "2021-10-12T11:09:52+02:00",
+        "creationTimestamp": 1729777206555
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/0451e1bd-4332-45d3-891c-7d40dd8b6f48",
+        "name": "Décor en creux",
+        "creationDate": "2021-10-12T11:10:56+02:00",
+        "creationTimestamp": 1729777206555
+      },
+      {
+        "type": "category",
+        "id": "e63969ef-bb85-507e-b117-5bbf0f585ab7",
+        "name": "Couleur",
+        "children": [
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/163d790d-859f-4a9d-92ae-2f759a1d8b6b",
+            "name": "Argenté",
+            "creationDate": "2021-10-12T12:19:29+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/d549884f-ed29-4a28-87c8-07311d9a14ad",
+            "name": "Bleu",
+            "creationDate": "2021-10-12T16:48:36+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/65911707-7503-4511-a7f8-50d7950e8178",
+            "name": "Orange",
+            "creationDate": "2021-10-12T16:55:11+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/23d3e025-d192-44a3-b402-8e7549cad396",
+            "name": "Jaune",
+            "creationDate": "2021-10-12T16:53:38+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/0e604a6e-3c95-4608-a7b8-5f99fcd506e5",
+            "name": "Violet",
+            "creationDate": "2021-10-12T16:58:21+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/8fea5a73-2d20-4fcf-a1a5-84c886c25152",
+            "name": "Rouge",
+            "creationDate": "2021-10-12T16:56:43+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/28b1b584-6607-49cf-acff-67e7f16dae68",
+            "name": "Vert",
+            "creationDate": "2021-10-12T16:57:28+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/c1e1850f-9eb1-48f4-b8b8-6154a3a1623c",
+            "name": "Doré",
+            "creationDate": "2021-10-12T16:51:48+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/3219663b-bd8b-4e14-8dc8-02eaf6e1f793",
+            "name": "Cuivré",
+            "creationDate": "2021-10-12T16:50:54+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/2259f089-935b-46ec-af76-cdb5156ee311",
+            "name": "Blanc",
+            "creationDate": "2021-10-12T12:21:51+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/b4028a43-aafc-4d54-bdf7-8c901c693d14",
+            "name": "Noir",
+            "creationDate": "2021-10-12T16:54:20+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/0bfbc388-6da7-4209-995d-33c72c08fb9f",
+            "name": "Rose",
+            "creationDate": "2021-10-12T16:56:02+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/c3c194f1-5237-4e1c-ad3d-38cb2351b8eb",
+            "name": "Brun",
+            "creationDate": "2021-10-12T16:49:41+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/71aa53c3-0322-4111-bf82-98fa14f62393",
+            "name": "Beige",
+            "creationDate": "2021-10-12T12:20:45+02:00",
+            "creationTimestamp": 1729777206555
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/aa134bc0-36d8-4156-a1f6-8f3241f70a93",
+            "name": "Gris",
+            "creationDate": "2021-10-12T16:52:29+02:00",
+            "creationTimestamp": 1729777206555
+          }
+        ],
+        "creationDate": "2021-10-12T11:09:01+02:00",
+        "creationTimestamp": 1729777206555,
+        "showChildren": true
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/249c6875-4331-47c0-bc20-86a19c7464e4",
+        "name": "Couleur",
+        "creationDate": "2021-10-12T11:09:01+02:00",
+        "creationTimestamp": 1729777206555
+      },
+      {
+        "type": "category",
+        "id": "5340d6bc-ac8b-5bd9-a7e1-112f72286b58",
+        "name": "Corps d'ouvrage",
+        "children": [
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/0dab4320-3512-4869-9f17-65fe76aeb001",
+            "name": "Feuillet",
+            "creationDate": "2021-10-12T11:49:19+02:00",
+            "creationTimestamp": 1729777206556
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/57ee9f43-de93-4da0-814a-4588e9871129",
+            "name": "Page",
+            "creationDate": "2021-10-12T11:53:58+02:00",
+            "creationTimestamp": 1729777206556
+          }
+        ],
+        "creationDate": "2021-10-12T11:02:34+02:00",
+        "creationTimestamp": 1729777206556,
+        "showChildren": true
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/13aee70b-7a68-45cf-8353-8141a462331d",
+        "name": "Corps d'ouvrage",
+        "creationDate": "2021-10-12T11:02:34+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "category",
+        "id": "2b6d0932-0c07-58ef-9012-9ae9d061d56d",
+        "name": "Couche picturale",
+        "children": [
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/8b354737-4c2a-4164-85fc-5f8f60b3efcc",
+            "name": "Repeint",
+            "creationDate": "2021-10-12T12:00:45+02:00",
+            "creationTimestamp": 1729777206556
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/9b63d2b5-0fd7-4443-8d5f-5257885f31df",
+            "name": "Glacis",
+            "creationDate": "2021-10-12T11:57:56+02:00",
+            "creationTimestamp": 1729777206556
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/695b7502-dbda-47ab-b587-9b8533796690",
+            "name": "Contour",
+            "creationDate": "2021-10-12T11:54:49+02:00",
+            "creationTimestamp": 1729777206556
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/7c2382cf-369c-4826-9173-d1b58900675f",
+            "name": "Rehaut",
+            "creationDate": "2021-10-12T11:59:04+02:00",
+            "creationTimestamp": 1729777206556
+          }
+        ],
+        "creationDate": "2021-10-12T11:03:30+02:00",
+        "creationTimestamp": 1729777206556,
+        "showChildren": true
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/3ab80986-faab-46c3-b116-b3a26416d257",
+        "name": "Couche picturale",
+        "creationDate": "2021-10-12T11:03:30+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "category",
+        "id": "a754800f-44ce-58c8-b506-6e45e5d716d7",
+        "name": "Couche translucide",
+        "children": [
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/9b63d2b5-0fd7-4443-8d5f-5257885f31df",
+            "name": "Glacis",
+            "creationDate": "2021-10-12T11:57:56+02:00",
+            "creationTimestamp": 1729777206556
+          },
+          {
+            "type": "category",
+            "id": "ccca68fa-824d-50a6-af3e-7d1909416c08",
+            "name": "Couche de protection",
+            "children": [
+              {
+                "type": "tag",
+                "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/1e95d7be-61ff-499f-bc03-b191f3cd6294",
+                "name": "Couche de matage",
+                "creationDate": "2021-10-12T12:12:15+02:00",
+                "creationTimestamp": 1729777206556
+              },
+              {
+                "type": "tag",
+                "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/e43636cd-94d8-4b06-8aab-77ce79913ae7",
+                "name": "Couche de consolidation",
+                "creationDate": "2021-10-12T12:13:37+02:00",
+                "creationTimestamp": 1729777206556
+              },
+              {
+                "type": "tag",
+                "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/3c28e9e9-e066-4109-bebc-86d088a21b03",
+                "name": "Couche de vernis",
+                "creationDate": "2021-10-12T12:15:55+02:00",
+                "creationTimestamp": 1729777206556
+              }
+            ],
+            "creationDate": "2021-11-09T10:48:29+01:00",
+            "creationTimestamp": 1729777206556,
+            "showChildren": true
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/0e8444eb-4591-45ff-90c1-d3872534be9e",
+            "name": "Couche de protection",
+            "creationDate": "2021-11-09T10:48:29+01:00",
+            "creationTimestamp": 1729777206556
+          }
+        ],
+        "creationDate": "2021-10-12T11:07:16+02:00",
+        "creationTimestamp": 1729777206556,
+        "showChildren": true
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/40931257-9830-4246-8426-f2f539d2a98a",
+        "name": "Couche translucide",
+        "creationDate": "2021-10-12T11:07:16+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "category",
+        "id": "f6699b09-63fb-50b6-8c40-956490903e77",
+        "name": "Châssis",
+        "children": [
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/6cd0deee-9e3e-4e85-b279-d4eb59301dcc",
+            "name": "Montant",
+            "creationDate": "2021-10-12T11:44:28+02:00",
+            "creationTimestamp": 1729777206556
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/77dc9ad6-a38b-4449-8188-a360b0c19378",
+            "name": "Traverse de châssis",
+            "creationDate": "2021-10-12T11:47:31+02:00",
+            "creationTimestamp": 1729777206556
+          }
+        ],
+        "creationDate": "2021-10-12T10:54:37+02:00",
+        "creationTimestamp": 1729777206556,
+        "showChildren": true
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/a63af870-4a88-4be6-9abd-c953052ffb26",
+        "name": "Châssis",
+        "creationDate": "2021-10-12T10:54:37+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "category",
+        "id": "a0bc2461-600c-5e87-ae46-29dafce71de9",
+        "name": "Décor métallique",
+        "children": [
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/13cc2795-b967-4a1a-806b-8e517c571cfe",
+            "name": "Mixtion",
+            "creationDate": "2021-10-12T17:06:26+02:00",
+            "creationTimestamp": 1729777206556
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/ad78dc00-18f3-4df5-b8af-f037a9103918",
+            "name": "Masse du relief",
+            "creationDate": "2021-10-12T17:04:15+02:00",
+            "creationTimestamp": 1729777206556
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/7b209ca8-bc2f-427d-b6fc-c353682c5c1a",
+            "name": "Assiette",
+            "creationDate": "2021-10-12T17:00:20+02:00",
+            "creationTimestamp": 1729777206556
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/fc73c97b-baec-4bcc-aab9-f53bda73ad87",
+            "name": "Feuille métallique",
+            "creationDate": "2021-10-12T17:01:29+02:00",
+            "creationTimestamp": 1729777206556
+          },
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/d6acf5c6-0394-4470-b496-67808dccf6bc",
+            "name": "Poudre métallique",
+            "creationDate": "2021-10-12T17:10:39+02:00",
+            "creationTimestamp": 1729777206556
+          }
+        ],
+        "creationDate": "2021-10-12T11:41:07+02:00",
+        "creationTimestamp": 1729777206556,
+        "showChildren": true
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/84a55072-a45c-4452-9f0b-7c6241491b40",
+        "name": "Décor métallique",
+        "creationDate": "2021-10-12T11:41:07+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/49842425-d98e-4ec8-99fa-c68164ea06e0",
+        "name": "Écriture manuscrite",
+        "creationDate": "2021-10-12T17:14:05+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/d31b5532-0005-4694-94a1-a3b7c29bd516",
+        "name": "Sous-couche",
+        "creationDate": "2021-10-12T17:21:00+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/629ffec7-4d47-4a15-9c11-61e172904aae",
+        "name": "Apprêt",
+        "creationDate": "2021-10-08T16:44:58+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/1cc2e716-aaf2-4293-afab-7dff78287cc7",
+        "name": "Préparation",
+        "creationDate": "2021-10-12T17:17:57+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "category",
+        "id": "4fb497ea-1b9b-5f7d-8afe-fefc554795f7",
+        "name": "Couche d'adhésif",
+        "children": [
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/87b5bbc0-3d3a-487f-97ce-eda19f837eb1",
+            "name": "Encollage",
+            "creationDate": "2021-10-12T12:05:13+02:00",
+            "creationTimestamp": 1729777206556
+          }
+        ],
+        "creationDate": "2021-10-12T12:04:11+02:00",
+        "creationTimestamp": 1729777206556,
+        "showChildren": true
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/b4f482f5-b210-4bc7-9254-03eac6ee443c",
+        "name": "Couche d'adhésif",
+        "creationDate": "2021-10-12T12:04:11+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/3c8cd342-7593-4830-a73a-fdc5f3cfd9ec",
+        "name": "Badigeon",
+        "creationDate": "2021-10-08T16:45:47+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/2475a561-9881-4cf1-bff0-7b679134caa2",
+        "name": "Chaulage",
+        "creationDate": "2021-10-12T11:01:10+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/75c84582-9ee9-4653-8d75-bda05335e72d",
+        "name": "Cadre",
+        "creationDate": "2021-10-11T18:02:02+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/9f07eefc-5d0b-4475-9b71-bdafc2e18e95",
+        "name": "Écriture imprimée",
+        "creationDate": "2021-10-12T17:12:08+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/fb71d9dd-aeb1-4e31-b68d-8d314fd3b712",
+        "name": "Socle",
+        "creationDate": "2021-10-12T17:19:03+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/eb8d9de6-1005-4cff-821e-0f056e08eec8",
+        "name": "Tracé préparatoire",
+        "creationDate": "2021-10-12T17:23:29+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "category",
+        "id": "60ac1d52-7cf1-58d6-80ac-893654fbb1de",
+        "name": "Panneau",
+        "children": [
+          {
+            "type": "tag",
+            "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/d587302b-f532-4c21-b27f-4bd3c538dd87",
+            "name": "Traverse",
+            "creationDate": "2021-10-12T17:45:10+02:00",
+            "creationTimestamp": 1729777206556
+          }
+        ],
+        "creationDate": "2021-10-12T17:17:02+02:00",
+        "creationTimestamp": 1729777206556,
+        "showChildren": true
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/1105925d-055d-4c4d-bec3-0d7c20ccab66",
+        "name": "Panneau",
+        "creationDate": "2021-10-12T17:17:02+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/517b009b-5dca-40d3-991a-6969558759bc",
+        "name": "Enduit",
+        "creationDate": "2021-10-12T17:15:57+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/2db76380-368c-4ac0-8657-90eb63c37dd3",
+        "name": "Toile",
+        "creationDate": "2021-10-12T17:22:04+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/a7c50e62-8abd-49b1-8156-cfe13cda0796",
+        "name": "Décor en relief",
+        "creationDate": "2021-10-12T11:11:16+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/00ac95f1-3a9d-43d9-b3ab-9abc6f6bf09f",
+        "name": "Encrassement",
+        "creationDate": "2022-09-29T15:56:26+02:00",
+        "creationTimestamp": 1729777206556
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/f3645dc2-f613-4fb7-9925-36e0cc3ea703",
+        "name": "Protection",
+        "creationDate": "2022-09-29T15:58:29+02:00",
+        "creationTimestamp": 1729777206556
+      }
+    ],
+    "creationDate": "2021-10-08T16:41:46+02:00",
+    "creationTimestamp": 1729777206556,
+    "showChildren": true
+  }
+]
