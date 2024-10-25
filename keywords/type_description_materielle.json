@@ -1,0 +1,61 @@
+[
+  {
+    "type": "category",
+    "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/16bdfaec-15a7-409c-b91c-84d9bf8e2414",
+    "name": "Thésaurus AGORHA type de description matérielle",
+    "children": [
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/35a7f767-24f5-4e0f-bc8f-6998b82b8a85",
+        "name": "Support",
+        "creationDate": "2021-10-08T16:34:49+02:00",
+        "creationTimestamp": 1729861212267
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/40a69b4b-2477-4c60-b301-4fc97cb6bcc8",
+        "name": "Couche colorée",
+        "creationDate": "2021-10-08T16:28:43+02:00",
+        "creationTimestamp": 1729861212267
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/7678d93c-deb7-4021-8440-28c0f6898ab2",
+        "name": "Écriture",
+        "creationDate": "2021-10-08T16:34:23+02:00",
+        "creationTimestamp": 1729861212267
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/56c61948-5505-4da5-8e2f-17cbd75a28cc",
+        "name": "Couche non-peinte",
+        "creationDate": "2021-10-08T16:31:46+02:00",
+        "creationTimestamp": 1729861212267
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/c19f3196-d1e9-4f08-9917-4d627e61e153",
+        "name": "Décor",
+        "creationDate": "2021-10-08T16:33:11+02:00",
+        "creationTimestamp": 1729861212267
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/d38a9db0-00d6-4a55-b221-8faf24a57d1a",
+        "name": "Dispositif annexe",
+        "creationDate": "2021-10-08T16:35:33+02:00",
+        "creationTimestamp": 1729861212267
+      },
+      {
+        "type": "tag",
+        "id": "https://thesaurus.inha.fr/thesaurus/resource/ark:/54721/bc60360f-5eb6-4034-97e9-9ceade0d7907",
+        "name": "Couche préparatoire",
+        "creationDate": "2021-10-08T16:32:28+02:00",
+        "creationTimestamp": 1729861212267
+      }
+    ],
+    "creationDate": "2021-10-08T16:28:01+02:00",
+    "creationTimestamp": 1729861212267,
+    "showChildren": true
+  }
+]
