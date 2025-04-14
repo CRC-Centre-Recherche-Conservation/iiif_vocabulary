@@ -54,4 +54,4 @@ Les contributions pour améliorer ces thésaurus sont les bienvenues. N'hésitez
 
 - [Thésaurus AGORHA de l'INHA](https://thesaurus.inha.fr/)
 - [Thésaurus TAPAC - Frollo](https://ark.notre-dame.science/ark:/35572/th12)
-- [Annotate-On - Recolnat]([https://annotate-on.readthedocs.io/](https://www.recolnat.org/fr/annotate)
+- [Annotate-On - Recolnat](https://www.recolnat.org/fr/annotate)
