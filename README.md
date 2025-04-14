@@ -21,6 +21,9 @@ Ces thésaurus permettent de structurer l'annotation d'images de documents histo
   - `keywords/description_materielle.json` : Caractéristiques de description matérielle (AGORHA)
   - `keywords/type_description_materielle.json` : Types de description matérielle (AGORHA)
 
+- **Outils :**
+  - `src/convert.py` : CLI Python pour convertir un thésaurus RDF/SKOS en JSON (vocabulaire Annotate-On)
+
 ### 🛠️ Utilisation
 
 1. Cloner ce dépôt sur votre machine locale ou télécharger les fichiers
