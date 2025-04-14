@@ -1,4 +1,4 @@
-# Thésaurus *Matérialié* pour Annotate-On
+# Thésaurus *Matérialité* pour Annotate-On
 
 ## 📚 Vocabulaire contrôlé pour l'annotation d'acquisitions expérimentales sur documents historiques
 
